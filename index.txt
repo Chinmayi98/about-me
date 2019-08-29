@@ -1,2 +1,9 @@
+Chinmayi – 04
+
 I am a new member of the Fall Batch working on my Masters of Applied Computer Science.
 
+I pursued my under graduation from Geethanjali college of Engineering and Technology in the stream of Electronics and Communication Engineering. During this program, I have displayed academic excellence by securing the highest percentage in my college. I interned with Microsoft Technology Associate (MTA) in the field of Machine learning and worked on various Python libraries and R studio, analyzed best outcomes of a pattern in Machine learning and also created classification and regression supervised algorithms. Besides that I got nominated for EXCITE 2k17, a summer product engineering workshop organized by Jawaharlal Nehru Technological University which is focused in the fields of IOT, Machine learning and Cloud computing. This program helped me to ideate, learn new technology and implement product prototypes with the active support from industry mentors and start-ups. This experience helped me determine my acumen in adapting to new technologies. Thus I am driven towards pursuing a master’s program in Computer science even though I was offered jobs by INFOSYS and Netelixir during placements at my college.
+
+I am not sure about my plans yet but I am really interested in Mobile computing and developing web apps using JavaScript and HTML.
+
+Please feel free to follow me on [LinkedIn](https://www.linkedin.com/in/chinmayi-a-297a43a1/)
