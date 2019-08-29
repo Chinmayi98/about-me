@@ -1,5 +1,5 @@
 # About-Me
 
 ## Repository Links
-* [Source Repository](https://github.com/Chinmayi98/about-me)
-* [Hosted Page]()
+- [Source Repository](https://github.com/Chinmayi98/about-me)
+- [Hosted Page](https://chinmayi98.github.io/about-me/)
