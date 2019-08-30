@@ -25,6 +25,6 @@ I am new to web development and using Github. The following are links to some of
 - [StackOverflow](https://stackoverflow.com/)
 
 ## Contributers
-My name is Chinmayi Ambati and I am a new member of the Fall Batch working on my Masters of Applied Computer Science at NorthWest Missouri State University. Here is one of my favourite pictures and it was taken when I went on a trip with my friends.
+My name is Chinmayi Ambati and I am a new member of the Fall Batch working on my Masters of Applied Computer Science at NorthWest Missouri State University. Here is one of my favourite pictures and it was taken when I went on a trip with my friends!
 
 ![](https://github.com/Chinmayi98/about-me/blob/master/DA8A6558.JPG?raw=true)
